@@ -1,1 +1,1 @@
-
+This project covers basic Cisco router configuration using Packet Tracer. I practised setting passwords, configuring SSH and Telnet, setting a warning banner, and saving router configurations.The screenshots contain the running configurations
